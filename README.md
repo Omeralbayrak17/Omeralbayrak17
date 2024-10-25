@@ -1,4 +1,6 @@
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNxa3JzejA5YnBuaDZwbzk4aDlmZzJhYWZ4bTFoN2JteGg1aXN1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif" alt="Android" width="800" height="400">
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNxa3JzejA5YnBuaDZwbzk4aDlmZzJhYWZ4bTFoN2JteGg1aXN1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif" alt="Android" width="400" height="400">
+</p>
 
 <h1 align="center">Hi 👋, I'm Ömer Albayrak</h1>
 <h3 align="center">An android enthusiast from Türkiye</h3>
