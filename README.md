@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNxa3JzejA5YnBuaDZwbzk4aDlmZzJhYWZ4bTFoN2JteGg1aXN1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif" alt="Android" width="400" height="400">
+  <img src="(https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2J0M2lmNGpqamhwdzFxejg5aDh3eDI2djNzdHJheG5sbDJ3dTUwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sLoRDJqV5XoOScXOuH/giphy.gif)" alt="Android" width="400" height="400">
 </p>
 
 <h1 align="center">Hi 👋, I'm Ömer Albayrak</h1>
